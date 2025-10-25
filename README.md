@@ -1,23 +1,24 @@
-## Hey there 👋 I'm Ankur
+![Banner](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-🎓 IIIT Kota | Full-stack Web Developer  
-💻 Node.js | React | MySQL | MongoDB | Tailwind CSS  
-🚀 Turning ideas into apps that actually work  
+## Hey there! 👋 I'm Ankur
 
-### 🔧 Skills
-Frontend: React, Tailwind CSS, HTML, CSS, JavaScript  
-Backend: Node.js, Express, REST APIs  
-Database: MySQL, MongoDB  
-Other: Git, GitHub, Docker, Postman  
+💻 Full-stack Web Developer | B.Tech CSE @ IIIT Kota  
+🚀 Building cool apps with Node.js, React, and clean UIs  
 
-### 🌱 Currently Learning
-- Cloud deployment: Render, AWS, Vercel  
-- Real-time apps & WebSockets  
-- Advanced full-stack patterns  
+🌱 Currently learning: React.js, Tailwind CSS, advanced backend patterns, and cloud deployment  
 
-### ⚡ Fun Fact
-I turn ☕ coffee into 💻 code, one hackathon at a time  
+🎨 I enjoy: crafting neat interfaces, solving DSA problems, and experimenting with side projects  
 
-### 📫 Connect with me
-GitHub: https://github.com/Ankurrr27  
-LinkedIn: https://linkedin.com/in/ankur
+📚 Fun fact: I turn ☕ coffee into 💻 code, one hackathon at a time  
+
+📫 Reach me at: ankur@example.com  
+
+---
+
+### 🛠️ Languages & Tools
+JavaScript | Node.js | React | Redux | Express | MySQL | MongoDB | Tailwind CSS | Git  
+
+---
+
+### 🌐 Connect with me
+[LinkedIn](https://linkedin.com/in/ankur) | [GitHub](https://github.com/Ankurrr27) | [Twitter](https://twitter.com/ankur)
