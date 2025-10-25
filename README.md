@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there 👋 I'm Ankur
 
-<!--
-**Ankurrr27/Ankurrr27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IIIT Kota | Full-stack Web Developer  
+💻 Node.js | React | MySQL | MongoDB | Tailwind CSS  
+🚀 Turning ideas into apps that actually work  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+Frontend: React, Tailwind CSS, HTML, CSS, JavaScript  
+Backend: Node.js, Express, REST APIs  
+Database: MySQL, MongoDB  
+Other: Git, GitHub, Docker, Postman  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Cloud deployment: Render, AWS, Vercel  
+- Real-time apps & WebSockets  
+- Advanced full-stack patterns  
+
+### ⚡ Fun Fact
+I turn ☕ coffee into 💻 code, one hackathon at a time  
+
+### 📫 Connect with me
+GitHub: https://github.com/Ankurrr27  
+LinkedIn: https://linkedin.com/in/ankur
