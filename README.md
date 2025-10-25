@@ -16,13 +16,7 @@
 - Cloud deployment strategies  
 - Hackathon projects & UI/UX hacks  
 
-📚 Fun Facts:  
-- I turn ☕ coffee into 💻 code, one hackathon at a time  
-- Always have a book or tutorial on my desk  
-- Meme enthusiast 😎  
-
-📫 Reach me at: ankur@example.com  
-
+📫 Reach me at: ankurp22singh@gmail.com  
 ---
 
 ### 🛠️ Languages & Tools
@@ -31,11 +25,7 @@ JavaScript | Node.js | React | Redux | Express | MySQL | MongoDB | Tailwind CSS 
 ---
 
 ### 🌐 Connect with me
-[LinkedIn](https://linkedin.com/in/ankur) | [GitHub](https://github.com/Ankurrr27) | [Twitter](https://twitter.com/ankur)
+[LinkedIn]([https://linkedin.com/in/ankur](https://www.linkedin.com/in/ankur-singh-b1331b333)) | [GitHub](https://github.com/Ankurrr27) | [Instagram]([https://twitter.com/ankur](https://www.instagram.com/a_nkurrr/))
 
 ---
 
-### 🚀 Hackathons & Projects
-- HealSync: Full-stack health management platform  
-- Random Video Chat App: React + WebSockets  
-- Instagram Clone: React + Redux + Node.js backend  
