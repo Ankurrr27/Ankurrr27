@@ -5,7 +5,7 @@
 ## Hey there! I'm **Ankur** 
 
 💻 Full-stack Web Developer | B.Tech CSE @ IIIT Kota  
-🚀 Building cool apps with Node.js, React, and clean UIs  
+ Building cool apps with Node.js, React, and clean UIs  
 
 🌱 Currently learning: React.js, Tailwind CSS, advanced backend patterns, cloud deployment, and WebSockets  
 
