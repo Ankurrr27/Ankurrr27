@@ -67,8 +67,9 @@ Building cool apps with Node.js, React, and clean UIs.
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankurrr27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankurrr27&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Ankurrr27&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
