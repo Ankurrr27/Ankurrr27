@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZqcmhqeGl6bGllZ2RnamVoa25wa21ham9tdDczcWIzMWR0anpuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%" />
 </p>
 
-## Hey! I'm **Ankur Singh**
+## Hey! I'm **Ankur Singh Chandel**
 
 Full-stack Web Developer | B.Tech CSE @ IIIT Kota  
 Building cool apps with Node.js, React, and clean UIs.
