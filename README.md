@@ -75,14 +75,8 @@ Building cool apps with Node.js, React, and clean UIs.
 
 ---
 
----
 
-## 🐍 Watch my contributions get eaten  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankurrr27/Ankurrr27/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
----
 
 ## 🧩 Languages & Contributions  
 
