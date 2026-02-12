@@ -61,35 +61,11 @@ Building cool apps with Node.js, React, and clean UIs.
 
 
 
-## ⚡ GitHub Stats & Activity  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankurrr27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Ankurrr27&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
 
 
 
 
-## 🧩 Languages & Contributions  
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankurrr27&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Ankurrr27&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankurrr27&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
 
 ## 📈 Contribution Graph  
 
