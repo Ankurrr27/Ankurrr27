@@ -14,12 +14,6 @@ Building cool apps with Node.js, React, and clean UIs.
 
 ---
 
-## 🚀 Projects I'm Working On
-- **[HealSync](https://github.com/Ankurrr27/HealSync-AI-Full)** – Full-stack health management platform  
-- **[Instagram Clone](https://github.com/Ankurrr27/Instagram-Clone)** – React + Redux + Node.js  
-
----
-
 ## 🎨 Languages & Tools
 
 <p align="center">
@@ -64,6 +58,8 @@ Building cool apps with Node.js, React, and clean UIs.
 </p>
 
 ---
+
+
 
 ## ⚡ GitHub Stats & Activity  
 
