@@ -2,9 +2,11 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZqcmhqeGl6bGllZ2RnamVoa25wa21ham9tdDczcWIzMWR0anpuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%" />
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Ankurrr27/Ankurrr27/main/Ankur_Minecraft.webp" width="260"/>
-</p>
+<div align="center">
+  
+<table>
+<tr>
+<td width="60%" align="left">
 
 <h2>Hey! I'm <b>Ankur Singh Chandel</b></h2>
 
@@ -17,9 +19,7 @@ Building cool apps with Next.js, Flutter and clean UIs.
 
 📫 <b>Reach me:</b> ankurp22singh@gmail.com  
 
----
-
-<p>
+<br/>
 
 <a href="https://www.linkedin.com/in/ankur-singh-b1331b333">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -33,7 +33,17 @@ Building cool apps with Next.js, Flutter and clean UIs.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
+</td>
+
+<td width="40%" align="right">
+
+<img src="https://raw.githubusercontent.com/Ankurrr27/Ankurrr27/main/Ankur_Minecraft.webp" width="260"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 
