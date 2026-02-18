@@ -2,6 +2,10 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZqcmhqeGl6bGllZ2RnamVoa25wa21ham9tdDczcWIzMWR0anpuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%" />
 </p>
 
+<table>
+<tr>
+<td>
+
 ## Hey! I'm **Ankur Singh Chandel**
 
 Full-stack Web Developer | B.Tech CSE @ IIIT Kota  
@@ -11,6 +15,15 @@ Building cool apps with Node.js, React, and clean UIs.
 🎨 **I enjoy:** sleek UI design, DSA, side projects, new tech experiments  
 💡 **Obsessed with:** real-time apps, Socket.IO, design, Android dev  
 📫 **Reach me:** ankurp22singh@gmail.com  
+
+</td>
+
+<td>
+<img src="YOUR_IMAGE_LINK" width="180"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
