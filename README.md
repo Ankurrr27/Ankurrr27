@@ -2,9 +2,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZqcmhqeGl6bGllZ2RnamVoa25wa21ham9tdDczcWIzMWR0anpuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%" />
 </p>
 
-<table>
-<tr>
-<td>
+<table border="0">
+<tr border="0">
+<td border="0">
 
 ## Hey! I'm **Ankur Singh Chandel**
 
@@ -18,12 +18,13 @@ Building cool apps with Node.js, React, and clean UIs.
 
 </td>
 
-<td>
-<img src="https://github.com/Ankurrr27/Ankurrr27/blob/main/Ankur.png" width="180"/>
+<td border="0">
+<img src="https://raw.githubusercontent.com/Ankurrr27/Ankurrr27/main/Ankur3.png" width="220"/>
 </td>
 
 </tr>
 </table>
+
 
 ---
 
