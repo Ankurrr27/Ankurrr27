@@ -19,7 +19,7 @@ Building cool apps with Node.js, React, and clean UIs.
 </td>
 
 <td border="0">
-<img src="https://raw.githubusercontent.com/Ankurrr27/Ankurrr27/main/Ankur_Minecraft.webp" width="220"/>
+<img src="https://raw.githubusercontent.com/Ankurrr27/Ankurrr27/main/Ankur_Minecraft.webp" width="260"/>
 </td>
 
 </tr>
