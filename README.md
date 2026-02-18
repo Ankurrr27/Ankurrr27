@@ -11,12 +11,13 @@
 Full-stack Web Developer | B.Tech CSE @ IIIT Kota  
 Building cool apps with Node.js, React, and clean UIs.
 
-🌱 **Currently learning:** NEXTJS & Android Dev.
+🌱 **Currently learning:** NEXTJS & Android Dev.  
 🎨 **I enjoy:** DSA, sleek UI design, side projects, new tech experiments  
 💡 **Obsessed with:** real-time apps, Socket.IO, design, Android dev  
 📫 **Reach me:** ankurp22singh@gmail.com  
 
 </td>
+
 
 <td border="0">
 <img src="https://raw.githubusercontent.com/Ankurrr27/Ankurrr27/main/Ankur_Minecraft.webp" width="260"/>
