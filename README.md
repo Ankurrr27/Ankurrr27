@@ -2,30 +2,43 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZqcmhqeGl6bGllZ2RnamVoa25wa21ham9tdDczcWIzMWR0anpuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100%" />
 </p>
 
-<table border="0">
-<tr border="0">
-<td border="0">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ankurrr27/Ankurrr27/main/Ankur_Minecraft.webp" width="260"/>
+</p>
 
-## Hey! I'm **Ankur Singh Chandel**
+<h2 align="center">Hey! I'm <b>Ankur Singh Chandel</b></h2>
 
-Full-stack Web Developer | B.Tech CSE @ IIIT Kota  
+<p align="center">
+Full-stack Web Developer | B.Tech CSE @ IIIT Kota <br/>
 Building cool apps with Next.js, Flutter and clean UIs.
+</p>
 
-🌱 **Currently learning:** NEXTJS & Android Dev.  
-🎨 **I enjoy:** DSA, sleek UI design, side projects, new tech experiments, Flutter & Dart  
-💡 **Obsessed with:** real-time apps, Socket.IO, design, Android dev  
-📫 **Reach me:** ankurp22singh@gmail.com  
+<p align="center">
+🌱 <b>Currently learning:</b> Next.js & Android Dev <br/>
+🎨 <b>I enjoy:</b> DSA, sleek UI design, side projects, new tech experiments, Flutter & Dart <br/>
+💡 <b>Obsessed with:</b> real-time apps, Socket.IO, design, Android dev
+</p>
 
-</td>
+<p align="center">
+📫 <b>Reach me:</b> ankurp22singh@gmail.com
+</p>
 
+<p align="center">
 
+<a href="https://www.linkedin.com/in/ankur-singh-b1331b333">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<td border="0">
-<img src="https://raw.githubusercontent.com/Ankurrr27/Ankurrr27/main/Ankur_Minecraft.webp" width="260"/>
-</td>
+<a href="https://github.com/Ankurrr27">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</tr>
-</table>
+<a href="https://www.instagram.com/a_nkurrr/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
 
 
 ---
