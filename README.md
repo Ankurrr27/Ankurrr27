@@ -6,7 +6,7 @@
   
 <table>
 <tr>
-<td width="60%" align="left">
+<td width="70%" align="left">
 
 <h2>Hey! I'm <b>Ankur Singh Chandel</b></h2>
 
