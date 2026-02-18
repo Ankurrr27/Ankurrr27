@@ -19,7 +19,7 @@ Building cool apps with Node.js, React, and clean UIs.
 </td>
 
 <td>
-<img src="Ankur.jpg" width="180"/>
+<img src="https://github.com/Ankurrr27/Ankurrr27/blob/main/Ankur.png" width="180"/>
 </td>
 
 </tr>
