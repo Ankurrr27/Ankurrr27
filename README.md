@@ -9,7 +9,7 @@
 ## Hey! I'm **Ankur Singh Chandel**
 
 Full-stack Web Developer | B.Tech CSE @ IIIT Kota  
-Building cool apps with Node.js, React, and clean UIs.
+Building cool apps with Next.js, Flutter and clean UIs.
 
 🌱 **Currently learning:** NEXTJS & Android Dev.  
 🎨 **I enjoy:** DSA, sleek UI design, side projects, new tech experiments, Flutter & Dart  
