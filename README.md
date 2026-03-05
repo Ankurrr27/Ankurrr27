@@ -8,7 +8,8 @@
 <tr>
 <td width="70%" align="left">
 
-<h2>Hey! I'm <b>Ankur Singh</b></h2>
+<h2>Hey! I'm <b>Ankur Singh Chandel
+</b></h2>
 
 Full-stack Web Developer | B.Tech CSE @ IIIT Kota  
 Building cool apps with Next.js, Flutter and clean UIs.
