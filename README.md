@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8619ca6-06d7-4cac-a895-50b1ff189988
-" width="100%" />
+  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="100%" />
 </p>
 
 <div align="center">
