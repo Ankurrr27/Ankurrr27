@@ -7,7 +7,7 @@
 <tr>
 <td width="70%" align="left">
 
-<h2>Hey! I'm <b>Ankur Singh Chandel
+<h2>Hey! I'm <b>Ankur Singh 
 </b></h2>
 
 Full-stack Web Developer | B.Tech CSE @ IIIT Kota  
