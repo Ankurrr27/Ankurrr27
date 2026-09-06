@@ -103,9 +103,8 @@ Building cool apps with Next.js, Flutter and clean UIs.
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankurrr27&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankurrr27&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
-
 ---
 
 ## 🌐 Connect with me  
